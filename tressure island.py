@@ -48,3 +48,7 @@ elif First_stage == "left":
     print("attacjed by trough! Game over")
 else:
   print("Game over!")
+  
+  
+  r= "new change" #new ine
+  
