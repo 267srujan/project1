@@ -50,6 +50,8 @@ else:
   print("Game over!")
   
   
-r= "new change" #new ine
-print(r)
+  r= "new change" #new ine
+  print(r)
+  
+  #this is a comment
   
