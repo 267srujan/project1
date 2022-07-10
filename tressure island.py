@@ -50,5 +50,6 @@ else:
   print("Game over!")
   
   
-  r= "new change" #new ine
+r= "new change" #new ine
+print(r)
   
